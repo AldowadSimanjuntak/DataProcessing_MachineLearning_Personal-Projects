@@ -1,3 +1,4 @@
+# MACHINE LEARNING PROJECT
 ## Naive Bayes Method
 
 Naive Bayes is a probabilistic algorithm based on Bayes' theorem, widely used for classification tasks. It assumes that the features used to describe an observation are conditionally independent, given the class label. Despite its simplicity and the "naive" assumption, Naive Bayes often performs well, especially in text classification and spam filtering scenarios.
