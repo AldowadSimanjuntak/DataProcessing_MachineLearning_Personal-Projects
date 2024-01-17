@@ -11,4 +11,5 @@ The Trend Moment method is a statistical approach designed for analyzing trends 
 
 Within this repository, you will discover an implementation of the Trend Moment method, highlighting its effectiveness in uncovering meaningful insights from time-series datasets. Whether you are exploring financial data to predict market trends or analyzing sensor data over time, the Trend Moment method can be a valuable asset in your data analysis pipeline.
 
-Feel free to explore the code, experiment with the implementations, and integrate these methods into your own projects. If you have any questions, feedback, or contributions, don't hesitate to reach out. Happy coding!
+## Contribution and License
+### Feel free to explore the code, experiment with the implementations, and integrate these methods into your own projects. If you have any questions, feedback, or contributions, don't hesitate to reach out. Happy coding!
